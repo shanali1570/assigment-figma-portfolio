@@ -6,7 +6,7 @@ const heebo = Heebo({ subsets: ['latin'] })
 
 const FeaturedWorks = () => {
 
-  let FeaturedItems = [
+  const FeaturedItems = [
     {
       image : "Rectangle30.png",
       name : "Designing Dashboards",

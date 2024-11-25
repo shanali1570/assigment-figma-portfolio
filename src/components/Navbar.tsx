@@ -6,7 +6,7 @@ const inter = Inter({subsets: ['latin']});
 
 const Navbar = () => {
 
-    let navItems = [
+    const navItems = [
 
         // Navbar item here
         {
